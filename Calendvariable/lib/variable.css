@@ -1,0 +1,111 @@
+.qv - object - Calendvariable {
+        box - sizing: border - box
+    }.qv - object - Calendvariable.icon - zoom - in {
+        display: none
+    }.qv - object - Calendvariable div.bootstrap, .qv - object - Calendvariable div.material, .qv - object - Calendvariable div.qlik {
+        height: 40 px
+    }.qv - object - Calendvariable button {
+        cursor: pointer;margin - right: 3 px;margin - bottom: 5 px
+    }.qv - object - Calendvariable.labelwrap {
+        position: absolute;top: 11 px;width: calc(98 % -30 px)
+    }.qv - object - Calendvariable input[type = range] {
+        -webkit - appearance: none;
+        width: 100 % ;
+        position: absolute;
+        top: 20 px;
+        padding: 0;
+        border: none;
+        height: 30 px
+    }.qv - object - Calendvariable input[type = range]: focus {
+        outline: none
+    }.qv - object - Calendvariable input[type = range]::-webkit - slider - runnable - track {
+        cursor: pointer
+    }.qv - object - Calendvariable input[type = range]::-webkit - slider - thumb {
+        -webkit - appearance: none
+    }.qv - object - Calendvariable input[type = range]::-moz - range - thumb {
+        -webkit - appearance: none
+    }.qv - object - Calendvariable input[type = range]::-ms - thumb {
+        -webkit - appearance: none
+    }.qv - object - Calendvariable input[type = range]::-ms - track {
+        width: 100 % ;cursor: pointer;background: transparent;border - color: transparent;color: transparent
+    }.qv - object - Calendvariable.qlik.rangelabel {
+        position: absolute;margin - top: -10 px;text - align: center;border: 1 px solid# ccc;padding - left: 5 px;padding - right: 5 px;border - radius: 3 px
+    }.qv - object - Calendvariable.qlik input[type = range]::-webkit - slider - runnable - track {
+        position: relative;width: 99 % ;height: 6 px;border - radius: 3 px;border: 1 px solid# ccc;background - color: #fff
+    }.qv - object - Calendvariable.qlik input[type = range]::-webkit - slider - thumb {
+        height: 22 px;width: 22 px;margin - top: -10 px;border - radius: 15 px;border: 1 px solid# ccc;background - image: linear - gradient(0 deg, #e6e6e6, #fff)
+    }.qv - object - Calendvariable.qlik input[type = range]::-moz - range - track {
+        position: relative;width: 99 % ;height: 6 px;border - radius: 3 px;border: 1 px solid# ccc;background - color: #fff
+    }.qv - object - Calendvariable.qlik input[type = range]::-moz - range - thumb {
+        height: 22 px;width: 22 px;margin - top: -10 px;border - radius: 15 px;border: 1 px solid# ccc;background - image: linear - gradient(0 deg, #e6e6e6, #fff)
+    }.qv - object - Calendvariable.qlik input[type = range]::-ms - fill - lower, .qv - object - Calendvariable.qlik input[type = range]::-ms - fill - upper {
+        position: relative;width: 99 % ;height: 6 px;border - radius: 3 px;border: 1 px solid# ccc;background - color: #fff
+    }.qv - object - Calendvariable.qlik input[type = range]::-ms - thumb {
+        height: 22 px;width: 22 px;margin - top: -10 px;border - radius: 15 px;border: 1 px solid# ccc;background - image: linear - gradient(0 deg, #e6e6e6, #fff);margin - top: 0
+    }.qv - object - Calendvariable.bootstrap button {
+        display: inline - block;padding: 6 px 12 px;font - weight: 400;line - height: 1.42857143;text - align: center;white - space: nowrap;vertical - align: middle; - ms - touch - action: manipulation;touch - action: manipulation;background - image: none;border: 1 px solid transparent;border - radius: 4 px;text - decoration: none
+    }.qv - object - Calendvariable.bootstrap button: focus {
+        color: #333;background-color:# e6e6e6;border - color: #8c8c8c}.qv-object-Calendvariable .bootstrap button:hover{color:# 333;background - color: #e6e6e6;border - color: #adadad
+    }.qv - object - Calendvariable.bootstrap button.selected {
+        background - color: #52cc52;color:# fff
+    }.qv - object - Calendvariable.bootstrap input, .qv - object - Calendvariable.bootstrap select {
+        display: block;width: 90 % ;padding: 6 px 12 px;line - height: 1.42857143;color: #555;background-color:# fff;background - image: none;border: 1 px solid# ccc;border - radius: 4 px;box - shadow: inset 0 1 px 1 px rgba(0, 0, 0, .075);transition: border - color .15 s ease - in -out,
+        box - shadow .15 s ease - in -out
+    }.qv - object - Calendvariable.bootstrap input: focus, .qv - object - Calendvariable.bootstrap select: focus {
+        border - color: #66afe9;outline:0;box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}.qv-object-Calendvariable .bootstrap .rangelabel{position:absolute;margin-top:-10px;text-align:center;border:1px solid # ccc;
+        padding - left: 5 px;
+        padding - right: 5 px;
+        border - radius: 3 px
+    }.qv - object - Calendvariable.bootstrap input[type = range] {
+        border: none;padding: 0
+    }.qv - object - Calendvariable.bootstrap input[type = range]::-webkit - slider - runnable - track {
+        position: relative;width: 99 % ;cursor: pointer;height: 6 px;border - radius: 3 px;background - color: #bababa
+    }.qv - object - Calendvariable.bootstrap input[type = range]::-webkit - slider - thumb {
+        height: 22 px;width: 22 px;margin - top: -8 px;border - radius: 50 % ;background - color: #337ab7;background-image:linear-gradient(180deg,# 149 bdf 0,
+        #0480be);background-repeat:repeat-x;box-sizing:border-box}.qv-object-Calendvariable .bootstrap input[type= range]::-moz - range - track {
+        position: relative;width: 99 % ;cursor: pointer;height: 6 px;border - radius: 3 px;background - color: #bababa
+    }.qv - object - Calendvariable.bootstrap input[type = range]::-moz - range - thumb {
+        height: 22 px;width: 22 px;margin - top: -8 px;border - radius: 50 % ;background - color: #337ab7;background-image:linear-gradient(180deg,# 149 bdf 0,
+        #0480be);background-repeat:repeat-x;box-sizing:border-box}.qv-object-Calendvariable .bootstrap input[type= range]::-ms - track {
+        position: relative;width: 99 % ;cursor: pointer;height: 6 px;border - radius: 3 px;background - color: #bababa
+    }.qv - object - Calendvariable.bootstrap input[type = range]::-ms - thumb {
+        height: 22 px;width: 22 px;margin - top: -8 px;border - radius: 50 % ;background - color: #337ab7;background-image:linear-gradient(180deg,# 149 bdf 0,
+        #0480be);background-repeat:repeat-x;box-sizing:border-box}.qv-object-Calendvariable .bootstrap input[type= range]::-ms - fill - lower, .qv - object - Calendvariable.bootstrap input[type = range]::-ms - fill - upper {
+        height: 6 px;background: #bababa;border: none
+    }.qv - object - Calendvariable.material button, .qv - object - Calendvariable.material input, .qv - object - Calendvariable.material select {
+        box - shadow: 0 2 px 5 px 0 rgba(0, 0, 0, .16), 0 2 px 10 px 0 rgba(0, 0, 0, .12)
+    }.qv - object - Calendvariable.material button {
+        text - align: center;
+        outline: 0; - webkit - tap - highlight - color: transparent;
+        transition: .2 s ease - out;
+        text - decoration: none;
+        color: #fff;
+        background - color: #26a69a;letter-spacing:.5px;border:none;border-radius:2px;height:36px;line-height:36px;padding:0 1rem;text-transform:uppercase;z-index:1}.qv-object-Calendvariable .material button:hover{background-color:# 2 bbbad;
+        box - shadow: 0 5 px 11 px 0 rgba(0, 0, 0, .18), 0 4 px 15 px 0 rgba(0, 0, 0, .15)
+    }.qv - object - Calendvariable.material button.selected {
+        background - color: #52cc52}.qv-object-Calendvariable .material input[type= text] {
+        background - color: transparent;
+        border: none;
+        border - bottom: 1 px solid #9e9e9e;border-radius:0;outline:none;width:100%;margin:0 0 15px;padding:6px 12px;box-sizing:content-box;transition:all .3s}.qv-object-Calendvariable .material select{-webkit-appearance:menulist;-ms-flex-align:center;align-items:center;background-color:hsla(0,0%,100%,.9);width:100%;padding:5px;border:1px solid # f2f2f2;
+        border - bottom: 1 px solid #9e9e9e;border-radius:2px;text-rendering:auto;color:initial;letter-spacing:normal;word-spacing:normal;text-transform:none;text-indent:0;text-shadow:none;display:inline-block;text-align:start}.qv-object-Calendvariable .material input:focus,.qv-object-Calendvariable .material select:focus{outline:1px solid # c9f3ef;
+        box - shadow: 0 5 px 11 px 0 rgba(0, 0, 0, .18), 0 4 px 15 px 0 rgba(0, 0, 0, .15)
+    }.qv - object - Calendvariable.material input: focus, .qv - object - Calendvariable.material select: hover {
+        box - shadow: 0 5 px 11 px 0 rgba(0, 0, 0, .18), 0 4 px 15 px 0 rgba(0, 0, 0, .15)
+    }.qv - object - Calendvariable.material.rangelabel {
+        display: block;position: absolute;top: 8 px;width: 30 px;height: 30 px;line - height: 30 px;border: none;text - align: center;color: #fff;background - color: transparent;pointer - events: none
+    }.qv - object - Calendvariable.material input[type = range]: focus {
+        outline: none
+    }.qv - object - Calendvariable.material input[type = range]::-webkit - slider - runnable - track {
+        height: 3 px;background: #c2c0c2;border: none
+    }.qv - object - Calendvariable.material input[type = range]::-webkit - slider - thumb {
+        border: none;height: 30 px;width: 30 px;border - radius: 50 % ;background - color: #26a69a;transform-origin:50% 50%;margin:-15px 0 0;transition:.3s}.qv-object-Calendvariable .material input[type= range]: focus::-webkit - slider - runnable - track {
+        background: #26a69a}.qv-object-Calendvariable .material input[type= range]::-moz - range - track {
+        height: 3 px;background: #c2c0c2;border: none
+    }.qv - object - Calendvariable.material input[type = range]::-moz - range - thumb {
+        border: none;height: 30 px;width: 30 px;border - radius: 50 % ;background - color: #26a69a;transform-origin:50% 50%;margin:-15px 0 0;transition:.3s}.qv-object-Calendvariable .material input[type= range]::-ms - track {
+        height: 3 px;background: #c2c0c2;border: none;margin - top: 15 px
+    }.qv - object - Calendvariable.material input[type = range]::-ms - fill - lower, .qv - object - Calendvariable.material input[type = range]::-ms - fill - upper {
+        background: #c2c0c2;border: none
+    }.qv - object - Calendvariable.material input[type = range]::-ms - thumb {
+        border: none;height: 30 px;width: 30 px;border - radius: 50 % ;background - color: #26a69a;transform-origin:50% 50%;margin:-15px 0 0;transition:.3s;top:15px}.qv-object-Calendvariable .material input[type= range]: focus::-ms - fill - lower, .qv - object - Calendvariable.material input[type = range]: focus::-ms - fill - upper {
+        background: #26a69a}

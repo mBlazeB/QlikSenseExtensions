@@ -1,0 +1,7 @@
+{
+    "name": "Calendvariable",
+    "description": "Calendvariable extension",
+    "version": "3.3.1",
+    "type": "visualization",
+    "author": "Erik Wetterberg"
+}
